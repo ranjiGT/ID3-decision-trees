@@ -12,6 +12,9 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 
 ![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/out.png)
 
+## Simulation
+
+![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/shine.gif)
 
 ## Run Dockerfile 
 
