@@ -10,4 +10,4 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 
 ## Output
 
-![]()
+![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/out.png)
