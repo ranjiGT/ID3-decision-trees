@@ -7,3 +7,7 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 ## Math path
 
 ![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/CodeCogsEqn.svg)
+
+## Output
+
+![]()
