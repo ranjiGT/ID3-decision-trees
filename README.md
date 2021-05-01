@@ -8,6 +8,6 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 
 ![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/CodeCogsEqn.svg)
 
-## Output
+## Output (as xml)
 
 ![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/out.png)
