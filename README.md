@@ -11,3 +11,8 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 ## Output (as xml)
 
 ![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/out.png)
+
+
+## Run Dockerfile 
+
+`docker run -it dt-minidocker python3 decisiontree.py --data car.csv --output car.xml`
