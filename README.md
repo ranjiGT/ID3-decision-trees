@@ -6,4 +6,4 @@ Execute as: `python3 decisiontree.py --data car.csv --output car.xml`
 
 ## Math path
 
-$$Entropy(S)= -\sum_{i=1}^{C}p_i\log_Cp_i$$
+![](https://github.com/ranjiGT/ID3-decision-trees/blob/main/CodeCogsEqn.svg)
